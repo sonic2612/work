@@ -1,0 +1,173 @@
+@media screen and (max-width: 1024px) {
+    .number {
+    padding: 1.25em 0 0;
+    }
+    .number-two {
+     padding: 1.25em 0 0; 
+    }
+    .number-three {
+     padding: 1.25em 0 0; 
+    }
+    .color-text-footer {
+    font-size: 0.8em;
+    }
+}
+@media screen and (max-width: 768px) {
+    .button-black {
+    padding: 0.625em 1em;
+    border-radius: 5px;
+    font-size: 1em;
+    }
+    .wrap-content {
+    padding: 0 1em 1.25em;
+    font-size: 0.9em;
+    }
+    .small{
+        font-size: 0.9em;
+    }
+    .lorem-white {
+    font-size: 0.7em;
+    }
+    .color-text {
+    font-size: 0.7em;
+    }
+    .icon-block {
+    width: 1.35em;
+    height: 1.35em;
+    margin-right: 0px;
+    font-size: 1.3em;
+    }
+    .facebook{
+      background: #3c5a98;
+    padding: 1px 10px;
+    } 
+     .twitter{
+        background: #2daae4;
+      padding: 1px 6px;
+    } 
+    .futbol{
+        background: #c4376b;
+      padding: 1px 3px;
+    }
+    .linkedin{
+        background: #006599;
+      padding: 1px 6px;
+    } 
+    .google{
+        background: #da2713;
+      padding: 1px;
+    } 
+}
+@media screen and (max-width: 425px) {
+    .shadow-block {
+        box-shadow: none;
+    }
+    .pad-block {
+    		 padding: 0; 
+		}
+		.block-wrap {
+        border-bottom: solid 1px #dfdfdf;
+        margin: 0 0.625em;
+		}
+        .must {
+        border-bottom: none !important;
+        }
+	   .btn-red {
+            display: block;
+            margin: 1em 1.25em;
+        }
+        .btn-black {
+            display: block;
+            margin:0 1.25em;
+            padding: 0.75em 3.75em;
+            border-radius: 5px;
+            cursor: pointer;
+           }
+        .border-bottom{
+            border-bottom: solid 1px #ccc;
+            padding-bottom: 3em;
+        } 
+        
+        .wrap{
+            padding: 2em 0 0;
+        }
+        .wraper{
+            padding: 2em 0 0;
+        }
+        .border-bottom-block{
+        border-bottom: none;
+        padding-bottom: 0;
+        }
+        .button-black{
+        width: 100%;
+        padding: 0.625em 1.5625em;
+        } 
+        .button-red{
+        display: block;
+        text-align: center;
+        padding: 0.9375em 0;
+        }
+        .button-black-two{
+        display: block;
+        text-align: center;
+        padding: 0.9375em 0;      
+        }
+         .wrap-content {
+        padding: 0 1em 1.25em;
+         font-size: 1.1em;
+        }
+        .icon-block{
+        display: inline-block;
+        width: 1.75em;
+        height: 1.75em;
+        margin-right: 5px;
+        border-radius: 5px;
+        font-size: 1.5em;
+        }
+         .facebook{
+         background: #3c5a98;
+        padding: 5px 14px;
+        } 
+        .twitter{
+         background: #2daae4;
+        padding: 5px 11px;
+        } 
+        .futbol{
+            background: #c4376b;
+          padding: 5px 9px;
+        }
+        .linkedin{
+            background: #006599;
+          padding: 5px 11px;
+        } 
+        .google{
+            background: #da2713;
+          padding: 5px;
+        }
+        .button-red-footer {
+        display: block;
+        padding: 15px 20px;
+        border-radius: 6px;
+        box-shadow: none;
+        color: white;
+        cursor: pointer;
+        background: #d52349;
+        font-size: 1.1em;
+        text-align: center;
+        }
+        .color-text {
+        font-size: 0.9em;
+        }
+        .lorem-white {
+        font-size: 0.9em;
+        }
+        .nav-pills{
+        display: none;
+        }
+}
+@media screen and (max-width: 375px) {
+
+       .btn-red {
+            margin: 0 1.25em 1em;
+        }
+}
